@@ -11,7 +11,7 @@ function saveHandler() {
 
     localStorage.setItem("diary", diary);
 }
-
+//test
 $(document).ready(function() {
     
     if (diary == null) {
